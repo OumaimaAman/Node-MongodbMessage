@@ -1,0 +1,3 @@
+# Node-MongodbMessage
+Le projet a pour but de développer une API REST via le Framework Express propulsé par Node.js. L'API disposera d'une route registre permettant aux utilisateurs de s'enregistrer et une route login permettant de se connecter à l'API tout en intégrant un module d'authentification via le système de tokens JWT elle disposera aussi de deux routes POST et GET dont la première permettra de soumettre un message, la seconde, elle permettra de tout simplement lister tous les messages. 
+l'utilisation du module Mongoose qui va servir passerelle entre notre serveur Node js et la base de données Mongo Db.
